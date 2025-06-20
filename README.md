@@ -49,6 +49,6 @@ Se incluirá una vista previa del dashboard en Power BI.
 
 ## 👤 Autor
 
-- [Alan Arturo Cano Sanchez](www.linkedin.com/in/alan-arturo-cano-sanchez-511855361)
+- [Alan Arturo Cano Sanchez](https://www.linkedin.com/in/alan-arturo-cano-sanchez-511855361)
 - Egresado de Ingeniería en Datos e Inteligencia Organizacional
 
