@@ -1,0 +1,16 @@
+# Entorno virtual
+venv/
+
+# Archivos temporales
+*.pyc
+__pycache__/
+
+# Configuración de VS Code
+.vscode/
+
+# Jupyter notebooks checkpoints
+.ipynb_checkpoints/
+
+# Datos locales
+data/*.csv
+data/*.xlsx
