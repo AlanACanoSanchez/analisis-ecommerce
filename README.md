@@ -41,11 +41,23 @@ analisis-ecommerce/
 3. Instala dependencias: `pip install -r requirements.txt`
 4. Ejecuta los notebooks para explorar y limpiar los datos
 5. Carga los datos limpios a una base de datos SQL Server
-6. Conecta Power BI a SQL Server para construir visualizaciones
+6. Abre `dashboard.pbix` en Power BI para ver la visualización
 
-## 📈 Dashboard (Próximamente)
 
-Se incluirá una vista previa del dashboard en Power BI.
+## 📈 Dashboard 
+
+Dashboard interactivo construido en Power BI con indicadores clave de negocio, mapa geográfico y visualización dinámica.
+
+![Vista general del dashboard](./dashboard/dashboard_general.png)
+
+
+## 🧠 Observaciones clave del análisis
+
+- Las ventas están altamente concentradas en Reino Unido (más del 80%).
+- Papel y productos de manualidades representan el top de ingresos.
+- Cliente 14646 es el más importante, con más de £280,000 en ventas.
+- La actividad de compra se intensifica entre septiembre y noviembre.
+
 
 ## 👤 Autor
 
