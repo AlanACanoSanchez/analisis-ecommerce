@@ -23,13 +23,13 @@ Este archivo debe abrirse en **Microsoft Power BI Desktop**. Asegúrate de tener
 ## 🖼️ Vistas del Dashboard
 
 ### 1. Resumen General
-![Dashboard General](./capturas/dashboard_general.png.png)
+![Dashboard General](capturas/dashboard_general.png)
 
 ### 2. KPIs & Insights Automáticos
-![KPIs e Insights](.capturas/kpi_insight_dashboard.png)
+![KPIs e Insights](capturas/kpi_insight_dashboard.png)
 
 ### 3. Gráficos y Mapa Interactivo
-![Gráficos y Mapa](.capturas/graphs_map_dashboard.png)
+![Gráficos y Mapa](capturas/graphs_map_dashboard.png)
 
 ---
 

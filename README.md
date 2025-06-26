@@ -48,7 +48,7 @@ analisis-ecommerce/
 
 Dashboard interactivo construido en Power BI con indicadores clave de negocio, mapa geográfico y visualización dinámica.
 
-![Vista general del dashboard](./dashboard/dashboard_general.png)
+![Vista general del dashboard](dashboard/capturas/dashboard_general.png)
 
 
 ## 🧠 Observaciones clave del análisis
