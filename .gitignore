@@ -11,6 +11,3 @@ __pycache__/
 # Jupyter notebooks checkpoints
 .ipynb_checkpoints/
 
-# Datos locales
-data/*.csv
-data/*.xlsx
